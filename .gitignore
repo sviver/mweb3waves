@@ -1,10 +1,2 @@
 package-lock.json
 node_modules/
-{
-  "name": "filmfounder",
-  "description": "crowdfunding cinema projects",
-  "version": "1.0.0",
-  "engines": {
-    "node": "10.16.2"
-  }
-}
